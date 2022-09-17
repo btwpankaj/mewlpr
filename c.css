@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.IMG_20220805_203714 {
+    width: 400px;
+    clip-path: circle();
+}
